@@ -1,0 +1,37 @@
+
+
+.card {
+    margin-top: 1%;
+    margin: 10%;
+	box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+	
+}
+#tre{
+    margin: 3%;
+}
+
+#next1{
+    margin: 1%;
+    width: 75%;
+    margin-left: 15%
+}
+
+#next2{
+    margin: 1%;
+    width: 75%;
+
+    margin-left: 15%
+}
+
+#next3{
+    margin: 1%;
+    width: 75%;
+
+    margin-left: 15%
+}
+#fyra{
+    margin: 1%;
+    width: 75%;
+
+    margin-left: 10%
+}

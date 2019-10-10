@@ -1,0 +1,30 @@
+*{
+    margin:0px;
+    padding: 0px;
+    box-sizing: border-box;
+  
+  }
+
+body {
+   
+    background-image: url("adde.jpg");
+    width: 100%;
+    height: auto;
+    background-repeat: no-repeat;
+    background-size:  cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: flex;
+  }
+
+  .card-text{
+      margin-left: 50%;
+      margin-top: 30%;
+      width: 50%;
+      color: #ffffffc7;
+     font-size: 90%;
+     background-color: rgba(70, 122, 189, 0.8);
+     border-radius: 20px;
+     padding: 1%;
+  }
+ 
