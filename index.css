@@ -4,17 +4,13 @@
     box-sizing: border-box;
   
   }
+ 
+  #imgaea{
+    margin-top: 1%;
+    margin: 3%;
+	box-shadow: 0 5px 15px rgba(0,0,0,0.1);
 
-body {
-   
-    background-image: url("adde.jpg");
-    width: 100%;
-    height: auto;
-    background-repeat: no-repeat;
-    background-size:  cover;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-position: flex;
+
   }
 
   .card-text{
